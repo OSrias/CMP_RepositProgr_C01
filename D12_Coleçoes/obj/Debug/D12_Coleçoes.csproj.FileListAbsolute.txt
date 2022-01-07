@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Rumos_AC_PFP\PFP_2021_C01\11_20-10-2021\PFP\D12_Coleçoes\bin\Debug\D12_Coleçoes.exe.config
+C:\Users\user\Desktop\Rumos_AC_PFP\PFP_2021_C01\11_20-10-2021\PFP\D12_Coleçoes\bin\Debug\D12_Coleçoes.exe
+C:\Users\user\Desktop\Rumos_AC_PFP\PFP_2021_C01\11_20-10-2021\PFP\D12_Coleçoes\bin\Debug\D12_Coleçoes.pdb
+C:\Users\user\Desktop\Rumos_AC_PFP\PFP_2021_C01\11_20-10-2021\PFP\D12_Coleçoes\obj\Debug\D12_Coleçoes.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Rumos_AC_PFP\PFP_2021_C01\11_20-10-2021\PFP\D12_Coleçoes\obj\Debug\D12_Coleçoes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Rumos_AC_PFP\PFP_2021_C01\11_20-10-2021\PFP\D12_Coleçoes\obj\Debug\D12_Coleçoes.exe
+C:\Users\user\Desktop\Rumos_AC_PFP\PFP_2021_C01\11_20-10-2021\PFP\D12_Coleçoes\obj\Debug\D12_Coleçoes.pdb
