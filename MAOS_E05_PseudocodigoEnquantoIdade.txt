@@ -1,0 +1,47 @@
+--------------------------------------
+Algoritmo
+Pseudocódigo
+
+Enquanto a idade for superior ou igual a 18, fazer...
+---------------------------------------
+Algoritmo "Idade Maior ou Igual 18"
+Variáveis
+  idade: inteiro
+
+Inicio
+  escrever ("escrever idade")
+  ler (idade)
+  enquanto idade ≥ 18
+   escrever ("Maior de idade")
+   escrever ("escrever idade")
+   ler (idade)
+  fim enquanto
+Fim
+
+
+
+--------
+Fazer...
+------
+Algoritmo "Maior ou Igual a 18")
+Variavel idade: inteiro
+
+Inicio
+  faz 
+    escrever ("escrever idade")
+	ler (idade)
+  enquanto idade ≥ 18
+  escrever ("Maior de idade")
+  
+Fim
+
+
+Inicio
+  faz 
+    escrever ("escrever idade")
+	ler (idade)
+  se idade ≥ 18 então
+   escrever ("Maior de idade")
+  fim se
+  
+Fim
